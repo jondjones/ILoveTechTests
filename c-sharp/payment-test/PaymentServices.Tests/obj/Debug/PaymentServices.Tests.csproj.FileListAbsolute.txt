@@ -1,0 +1,6 @@
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices.Tests\bin\Debug\Yoox.Tests.dll
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices.Tests\bin\Debug\Yoox.Tests.pdb
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices.Tests\obj\Debug\PaymentServices.Tests.csprojAssemblyReference.cache
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices.Tests\obj\Debug\PaymentServices.Tests.csproj.CoreCompileInputs.cache
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices.Tests\obj\Debug\Yoox.Tests.dll
+C:\Code\PaymentServiceTest\PaymentServices\PaymentServices.Tests\obj\Debug\Yoox.Tests.pdb
