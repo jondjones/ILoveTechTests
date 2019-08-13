@@ -2,7 +2,7 @@
 
 ### Lonely Number
 
-Given an array of numbers, one numner will appear once and the others will be duplicated.  Write a method to return this item  
+Given an array of numbers, one number will appear once and the others will be duplicated.  Write a method to return this item  
 
 Example
 ```javascript

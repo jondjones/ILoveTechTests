@@ -1,4 +1,4 @@
-# Javascript Job INterview Questions
+# Javascript Job IInterview Questions
 
 ## 1. What Is The Output Of This?
 ```javascript

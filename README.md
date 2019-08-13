@@ -4,38 +4,55 @@
 
 :star: **Don't forget to star this repo as it's updated frequently** :star:
 
-### Technical Questions & Challenges
+# :rocket: #ILoveTechnicalInterviews Book :rocket:
 
-In this section you will find questons and challenges, related to gerneral programming
+## Download
+
+-   [#ILoveTechnicalInterviews.epub](build/epub/book.epub)
+-   [#ILoveTechnicalInterviews.pdf](build/pdf/book.pdf)
+
+## Online Version 
 
 *  [How to Ace your Technical Interview - By Jon D Jones](./docs/book.md)
 *  [Common Interview Questions](./docs/common-interview-questions.md)
 *  [Code Katas](./docs/list-of-challenges.md)
 
+# :rocket: Programming Languages :rocket:
+
 ## JavaScript
 
-In this section you will find questons and challenges, related to Javascript
+Questions and challenges, related to Javascript
 
-*  [Javascript Questions](./javascript/node.md)
-*  [Javascript Code Katas](./javascript/katas.md.md)
-*  [Node Questions](./javascript/node.md)
+*  [Interview Questions](./javascript/javascript.md)
+*  [Node Interview Questions](./javascript/node.md)
+*  [Katas](./javascript/katas.md.md)
 
 ## C#
 
-In this section you will find questons and challenges, related to C#
+Questions and challenges, related to C#
 
-*  [C# Questions](./c-sharp/README.md)
+*  [Interview Questions](./c-sharp/README.md)
 
-#### :floppy_disk: Challenges
+Challenges
 
 *  [Payment API Test](./c-sharp/payment-test/README.md)
 
-## Contributing
-Open an [issue](https://github.com/jondjones/ILoveTechnicalInterviews/issues) or a [pull request](https://github.com/jondjones/ILoveTechnicalInterviews) to suggest changes or additions.
+#  Contributing
 
-## Authors
+:construction: Open an [issue](https://github.com/jondjones/ILoveTechnicalInterviews/issues) or a [pull request](https://github.com/jondjones/ILoveTechnicalInterviews) to suggest changes or additions. :construction:
+
+If you like the content you find here, and want to support more content like it and you'd like to contribute financially towards the effort (or any of my other, I do have a patreon that I would always appreciate your generosity towards.
+
+<a href="https://www.patreon.com/jondjones">![patreon.com/jondjones](./img/patreon.png)</a>
+
+# Author
+
 [Jon D Jones](http://www.jondjones.com)
 
-## License
-![Creative Commons Licence](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)   
+# License
+
+![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)   
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+[:arrow_up: BACK TO TOP](#getting-started)
