@@ -1,0 +1,11 @@
+# Tower of Hanoi
+
+Tower of Hanoi is a classic puzzle. You have 3 towers and 3 discs on first tower. The object of the puzzle is to move all 3 discs from first tower to last tower
+
+## Rules
+
+You can’t place a larger disc on smaller disk. It may seem a bit simple at first, but go ahead and try it with 3, 4, 5 discs.
+
+You can try it here:
+
+https://www.mathsisfun.com/games/towerofhanoi.htm
