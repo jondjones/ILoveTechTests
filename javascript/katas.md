@@ -74,5 +74,11 @@ subarraySum(arr, sum)
 // true
 ```
 
+### Resource
+
+- [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+- [More challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
+- [100 Days Of Code](https://www.100daysofcode.com/)
+
 ---
 [:arrow_left: BACK](../README.md)
