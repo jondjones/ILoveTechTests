@@ -21,21 +21,24 @@
 
 ## JavaScript
 
-Questions and challenges, related to Javascript
+Questions and challenges related to Javascript:
 
-*  [Interview Questions](./javascript/javascript.md)
-*  [Node Interview Questions](./javascript/node.md)
-*  [Katas](./javascript/katas.md.md)
+* [Interview Questions](./javascript/README.md)
+* [Node Interview Questions](./javascript/node.md)
+* [Katas](./javascript/katas.md.md)
 
 ## C#
 
-Questions and challenges, related to C#
+Questions and challenges related to C#:
 
-*  [Interview Questions](./c-sharp/README.md)
+* [Interview Questions](./c-sharp/README.md)
+* [Payment API Test](./c-sharp/payment-test/README.md)
 
-Challenges
+## CSS
 
-*  [Payment API Test](./c-sharp/payment-test/README.md)
+Questions and challenges related to CSS:
+
+* [Interview Questions](./css/README.md)
 
 #  Contributing
 
